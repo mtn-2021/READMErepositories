@@ -38,7 +38,7 @@ mtn-2021の編集部分はファイルのページを開いて表示をBlameに�
 |NOCCA_selecteval.py|評価から次のAIの手を決定する関数|
 
 # SoftwareArchAssignment
-* 講義の自由課題で作成した簡単なメモ共有Webアプリ
+* 講義の自由課題で友人と共同で作成した簡単なメモ共有Webアプリ
 * フレームワークはクライアントがReact、サーバがExpress、言語はTypeScript
 * データベースはMongoDB
 * 実装したブランチはclient-impl
